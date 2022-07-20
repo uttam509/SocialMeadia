@@ -5,6 +5,22 @@
 
 Make Sure to Create a config.ev file in backend/config directory and add appropriate variable in order to use the app.
 
+### product overview:
+
+
+ ###  DOMAIN : WEB DEVELOPMENT LANGUAGES/TECHNOLOGY: 
+ 
+Technologies: react js , mongo db , express js
+
+◄ It is a web application clone of of social media app
+
+◄ User can upload their post and remaining user like , comment in the post
+
+◄ I hosted it on herokuapp
+
+
+
+
 **Essential Variables**
 
 1.  PORT =       
